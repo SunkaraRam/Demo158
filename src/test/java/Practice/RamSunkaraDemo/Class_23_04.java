@@ -1,10 +1,9 @@
 package Practice.RamSunkaraDemo;
 
-public class Test20 {
-
+public class Class_23_04 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("SunkaraRamu");
+	}
 
-}
 }
