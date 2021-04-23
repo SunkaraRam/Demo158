@@ -1,10 +1,10 @@
 package Practice.RamSunkaraDemo;
 
-public class ForChecking {
+public class VNSPTEst {
+
 	public static void main(String[] args) {
 		
-		System.out.println("Test output");
-
+		System.out.println("VNSP Testcase Automated");
 	}
 
 }
